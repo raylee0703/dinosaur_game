@@ -1,0 +1,2 @@
+D:\SystemFileDirectory\Desktop\dinosaur\dinosaur\Debug\dinosaur.exe
+D:\SystemFileDirectory\Desktop\dinosaur\dinosaur\Debug\dinosaur.pdb

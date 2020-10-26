@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\SystemFileDirectory\Desktop\dinosaur\dinosaur\Source.cpp(75,9): warning C4101: 'i': 未參考的區域變數
+  dinosaur.vcxproj -> D:\SystemFileDirectory\Desktop\dinosaur\dinosaur\Debug\dinosaur.exe
